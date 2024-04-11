@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Júlia
 - 👀 I’m interested in DataVIZ and Geospatial analysis
-  - 🌱 I’m currently learning SQL, Python
+- 🌱 I’m currently learning SQL, Python
 - 💞️ I’m looking to collaborate on ... still don't know, just focused on learning!
 - 📫 How to reach me... @jjjveiga on most social networks
 - 😄 Pronouns: she/her
